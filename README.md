@@ -30,7 +30,7 @@ Figure 5 and 6 showed that customers buying knit tops, T-shirts, and woven tops 
 
 Figure 7 showed the distribution of customer churn. The first pie chart on the top left corner revealed that about 1% customers may only be given promotions but no sales transactions in recent two years. For the real customers with valid purchase histories, the overall churn rate is about 59%, which seems relatively high for a retail business. More than half of the churn customers had no purchase in the recent year. The churn rate for new customers is as high as 92%, while that for established customers is only 53%.
 
-<img src="Customer mapping.jpg" width="80%">
+<img src="customer mapping.jpg" width="60%">
 
 Figure 8 is a quadrant diagram mapping quantity and profit per order for the predefined customer groups. Customers in the groups Young City Solos, Pastoral Pride, and Cultural Connections are valuable as they tend to place large orders in terms of quantity and profit. However, they all have relatively high churn rates. 
 
